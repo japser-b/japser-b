@@ -1,7 +1,9 @@
 ## Hi there 👋
 
-<!--
-**japser-b/japser-b** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=elodie28232&theme=dracula&title=Repositories,Commits,Experience" alt="japser-b trophies" />
+</p>
 
 Here are some ideas to get you started:
 
@@ -13,4 +15,4 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
+
