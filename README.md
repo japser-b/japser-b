@@ -5,13 +5,7 @@
 - 🔭 I’m currently working on a webshop for students Print Media Technologie at Artevelde
 - 🌱 I’m currently learning ...
 - 📫 How to reach me: jasper_buysse@hotmail.be
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=japser-b&theme=dracula&title=Stars,Followers,PullRequest,Issues,Repositories,Commits,Experience" />
 
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=japser-b&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
-</div>
-
----
 ---
 
 <h3 align="left">Languages and Tools:</h3>
