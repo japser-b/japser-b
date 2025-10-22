@@ -11,9 +11,9 @@ Here are some ideas to get you started:
 - 🌱 I’m currently learning ...
 - 📫 How to reach me: jasper_buysse@hotmail.be
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=japser-b&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph](https://github-profile-trophy.vercel.app/?username=japser-b&theme=dracula&title=Repositories,Commits,Experience
-)"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=elodie28232&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
+  <img src="https://github-profile-trophy.vercel.app/?username=japser-b&theme=dracula&title=Stars,Followers,PullRequest,Issues,Repositories,Commits,Experience" />
+
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=japser-b&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
 </div>
 
 ---
