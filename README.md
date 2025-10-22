@@ -2,7 +2,7 @@
 
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=elodie28232&theme=dracula&title=Repositories,Commits,Experience" alt="japser-b trophies" />
+  <img src="https://github-profile-trophy.vercel.app/?username=japser-b&theme=dracula&title=Repositories,Commits,Experience" alt="japser-b trophies" />
 </p>
 
 Here are some ideas to get you started:
