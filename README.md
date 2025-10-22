@@ -1,11 +1,6 @@
 ## Hi there 👋
 
 
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=japser-b&theme=dracula&title=Repositories,Commits,Experience" alt="japser-b trophies" />
-</p>
-
-Here are some ideas to get you started:
 
 - 🔭 I’m currently working on a webshop for students Print Media Technologie at Artevelde
 - 🌱 I’m currently learning ...
